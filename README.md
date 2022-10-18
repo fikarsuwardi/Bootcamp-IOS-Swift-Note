@@ -3,8 +3,7 @@ My Note for Bootcamp Ios and Swift by Dr. Angela Yuu
 Swift Deep Dive
 1. Variable
 2. Arrays
-3. Constants, the Range Operator and Randomisation
-n\ Dice App
+3. Constants, the Range Operator and Randomisation => Dice App
 4. Functions and Scope
 5. Functions with Inputs and Type Inference
 6. If-Else Control Flow
