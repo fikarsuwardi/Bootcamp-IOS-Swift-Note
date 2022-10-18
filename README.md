@@ -4,7 +4,7 @@ Swift Deep Dive
 1. Variable
 2. Arrays
 3. Constants, the Range Operator and Randomisation
---. Dice App
+n\ Dice App
 4. Functions and Scope
 5. Functions with Inputs and Type Inference
 6. If-Else Control Flow
