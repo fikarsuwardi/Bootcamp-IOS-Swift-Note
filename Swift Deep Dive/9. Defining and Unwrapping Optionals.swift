@@ -15,3 +15,19 @@ print(player2Username) // nil
 if player2Username != nil { // it will skip the line
   print(player2Username!)
 }
+
+// Function to get highest score
+func highestScore(scores: [String: Int]) {
+  
+  var score0: Int = 0
+  //Write your code here.
+  for score in scores.values {
+    if score > score0 {
+      score0 = score
+    }
+  }
+  print(score0)
+}
+
+let studentsAndscores = ["Amy": 88, "James": 55, "Helen": 99]
+highestScore(scores: studentsAndscores) // 99
